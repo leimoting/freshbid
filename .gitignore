@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+backend/data/*.sqlite3
+backend/src/*.egg-info/
+frontend/node_modules/
